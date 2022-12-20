@@ -28,11 +28,11 @@ var z2 = z1-x1 // 2
 
 console.log('Hello World')
 
-console.log(x)
+//console.log(x)
 
-console.log(10+40)
+//console.log(10+40)
 
-console.log('a' + 45)
+//console.log('a' + 45)
 
 var xx = 100
 var yy = 200
