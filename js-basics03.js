@@ -52,4 +52,19 @@ function findLengthOfArray(arr) {
     return arr.length
 }
 const arr = ['India', 'USA', 'Mexico', 'UK', 'France']
-console.log(arr)
+console.log(findLengthOfArray(arr))
+
+
+
+const person = {
+    name: "shan",
+    email: "shan@test.com",
+    address: {
+        address1: "123 Main st San Jose CA 95132",
+        address2: "Brown Apartments",
+        city: "San Jose",
+        state: "CA",
+        zip: "95132"
+    },
+    "interests": ["cooking", "travel", "reading"]
+}

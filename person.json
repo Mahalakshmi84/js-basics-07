@@ -1,0 +1,35 @@
+[
+    {
+        "name": "shan",
+        "email": "shan@test.com",
+        "address": {
+            "address1": "123 Main st San Jose CA 95132",
+            "address2": "Brown Apartments",
+            "city": "San Jose",
+            "state": "CA",
+            "zip": "95132"
+        },
+        "interests": [
+            "cooking",
+            "travel",
+            "reading"
+        ]
+    }
+{
+        "name": "Adam",
+        "email": "adam@test.com",
+        "address": {
+            "address1": "123 Main st San Jose CA 95132",
+            "address2": "Brown Apartments",
+            "city": "San Jose",
+            "state": "CA",
+            "zip": "95132"
+        },
+        "interests": [
+            "cooking",
+            "travel",
+            "reading"
+        ]
+    }
+]
+    //JSON - Java Script Object Notation
